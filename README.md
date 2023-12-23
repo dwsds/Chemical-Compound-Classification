@@ -1,1 +1,1 @@
-Project:Binary Chemical-Compound-Classification using Graph Neural Netwroks
+#PROJECT: Binary Chemical-Compound-Classification using Graph Neural Networks
